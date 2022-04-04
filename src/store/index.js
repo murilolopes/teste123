@@ -1,8 +1,14 @@
 import { createStore } from "vuex";
 
+import app from "./app";
+import appConfig from "./app-config";
+import verticalMenu from "./vertical-menu";
+
 export default createStore({
-  state: {},
-  mutations: {},
-  actions: {},
-  modules: {},
+  modules: {
+    app,
+    appConfig,
+    verticalMenu,
+  },
+  strict: process.env.DEV,
 });
