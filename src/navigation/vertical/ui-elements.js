@@ -1,222 +1,222 @@
 export default [
   {
-    header: 'User Interface',
+    header: "User Interface",
   },
   {
-    title: 'Typography',
-    route: 'ui-typography',
-    icon: 'TypeIcon',
+    title: "Typography",
+    route: "ui-typography",
+    icon: "TypeIcon",
   },
   {
-    title: 'Colors',
-    route: 'ui-colors',
-    icon: 'DropletIcon',
+    title: "Colors",
+    route: "ui-colors",
+    icon: "DropletIcon",
   },
   {
-    title: 'Feather',
-    route: 'ui-feather',
-    icon: 'EyeIcon',
+    title: "Feather",
+    route: "ui-feather",
+    icon: "EyeIcon",
   },
   {
-    title: 'Cards',
-    icon: 'CreditCardIcon',
-    tag: 'new',
-    tagVariant: 'light-success',
+    title: "Cards",
+    icon: "CreditCardIcon",
+    tag: "new",
+    tagVariant: "light-success",
     children: [
       {
-        title: 'Basic',
-        route: 'card-basic',
+        title: "Basic",
+        route: "card-basic",
       },
       {
-        title: 'Advance',
-        route: 'card-advance',
+        title: "Advance",
+        route: "card-advance",
       },
       {
-        title: 'Statistics',
-        route: 'card-statistic',
+        title: "Statistics",
+        route: "card-statistic",
       },
       {
-        title: 'Analytics',
-        route: 'card-analytic',
+        title: "Analytics",
+        route: "card-analytic",
       },
       {
-        title: 'Card Actions',
-        route: 'card-action',
+        title: "Card Actions",
+        route: "card-action",
       },
     ],
   },
   {
-    title: 'Components',
-    icon: 'ArchiveIcon',
+    title: "Components",
+    icon: "ArchiveIcon",
     children: [
       {
-        title: 'Alert',
-        route: 'components-alert',
+        title: "Alert",
+        route: "components-alert",
       },
       {
-        title: 'Aspect',
-        route: 'components-aspect',
+        title: "Aspect",
+        route: "components-aspect",
       },
       {
-        title: 'Avatar',
-        route: 'components-avatar',
+        title: "Avatar",
+        route: "components-avatar",
       },
       {
-        title: 'Badge',
-        route: 'components-badge',
+        title: "Badge",
+        route: "components-badge",
       },
       {
-        title: 'Breadcrumb',
-        route: 'components-breadcrumb',
+        title: "Breadcrumb",
+        route: "components-breadcrumb",
       },
       {
-        title: 'Button',
-        route: 'components-button',
+        title: "Button",
+        route: "components-button",
       },
       {
-        title: 'Button Group',
-        route: 'components-button-group',
+        title: "Button Group",
+        route: "components-button-group",
       },
       {
-        title: 'Button Toolbar',
-        route: 'components-button-toolbar',
+        title: "Button Toolbar",
+        route: "components-button-toolbar",
       },
       {
-        title: 'Calendar',
-        route: 'components-calendar',
+        title: "Calendar",
+        route: "components-calendar",
       },
       {
-        title: 'Carousel',
-        route: 'components-carousel',
+        title: "Carousel",
+        route: "components-carousel",
       },
       {
-        title: 'Collapse',
-        route: 'components-collapse',
+        title: "Collapse",
+        route: "components-collapse",
       },
       {
-        title: 'Dropdown',
-        route: 'components-dropdown',
+        title: "Dropdown",
+        route: "components-dropdown",
       },
       {
-        title: 'Embed',
-        route: 'components-embed',
+        title: "Embed",
+        route: "components-embed",
       },
       {
-        title: 'Image',
-        route: 'components-image',
+        title: "Image",
+        route: "components-image",
       },
       {
-        title: 'List Group',
-        route: 'components-list-group',
+        title: "List Group",
+        route: "components-list-group",
       },
       {
-        title: 'Media Objects',
-        route: 'components-media',
+        title: "Media Objects",
+        route: "components-media",
       },
       {
-        title: 'Modal',
-        route: 'components-modal',
+        title: "Modal",
+        route: "components-modal",
       },
       {
-        title: 'Nav',
-        route: 'components-nav',
+        title: "Nav",
+        route: "components-nav",
       },
       {
-        title: 'Overlay',
-        route: 'components-overlay',
+        title: "Overlay",
+        route: "components-overlay",
       },
       {
-        title: 'Pagination',
-        route: 'components-pagination',
+        title: "Pagination",
+        route: "components-pagination",
       },
       {
-        title: 'Pagination Nav',
-        route: 'components-pagination-nav',
+        title: "Pagination Nav",
+        route: "components-pagination-nav",
       },
       {
-        title: 'Pill',
-        route: 'components-pill',
+        title: "Pill",
+        route: "components-pill",
       },
       {
-        title: 'Pill Badge',
-        route: 'components-pill-badge',
+        title: "Pill Badge",
+        route: "components-pill-badge",
       },
       {
-        title: 'Popover',
-        route: 'components-popover',
+        title: "Popover",
+        route: "components-popover",
       },
       {
-        title: 'Progress',
-        route: 'components-progress',
+        title: "Progress",
+        route: "components-progress",
       },
       {
-        title: 'Sidebar',
-        route: 'components-sidebar',
+        title: "Sidebar",
+        route: "components-sidebar",
       },
       {
-        title: 'spinner',
-        route: 'components-spinner',
+        title: "spinner",
+        route: "components-spinner",
       },
       {
-        title: 'Tab',
-        route: 'components-tab',
+        title: "Tab",
+        route: "components-tab",
       },
       {
-        title: 'Time',
-        route: 'components-time',
+        title: "Time",
+        route: "components-time",
       },
       {
-        title: 'Timeline',
-        route: 'components-timeline',
+        title: "Timeline",
+        route: "components-timeline",
       },
       {
-        title: 'Toasts',
-        route: 'components-toasts',
+        title: "Toasts",
+        route: "components-toasts",
       },
       {
-        title: 'Tooltip',
-        route: 'components-tooltip',
+        title: "Tooltip",
+        route: "components-tooltip",
       },
     ],
   },
   {
-    title: 'Extensions',
-    icon: 'PlusCircleIcon',
+    title: "Extensions",
+    icon: "PlusCircleIcon",
     children: [
       {
-        title: 'Sweet Alert',
-        route: 'extensions-sweet-alert',
+        title: "Sweet Alert",
+        route: "extensions-sweet-alert",
       },
       {
-        title: 'Toastification',
-        route: 'extensions-toastification',
+        title: "Toastification",
+        route: "extensions-toastification",
       },
       {
-        title: 'Slider',
-        route: 'extensions-slider',
+        title: "Slider",
+        route: "extensions-slider",
       },
       {
-        title: 'Drag & Drop',
-        route: 'extensions-drag-and-drop',
-      },
-
-      {
-        title: 'Tour',
-        route: 'extensions-tour',
+        title: "Drag & Drop",
+        route: "extensions-drag-and-drop",
       },
 
       {
-        title: 'Clipboard',
-        route: 'extensions-clipboard',
-      },
-      {
-        title: 'Context Menu',
-        route: 'extensions-context-menu',
+        title: "Tour",
+        route: "extensions-tour",
       },
 
       {
-        title: 'Swiper',
-        route: 'extensions-swiper',
+        title: "Clipboard",
+        route: "extensions-clipboard",
+      },
+      {
+        title: "Context Menu",
+        route: "extensions-context-menu",
+      },
+
+      {
+        title: "Swiper",
+        route: "extensions-swiper",
       },
 
       // {
@@ -225,35 +225,35 @@ export default [
       // },
 
       {
-        title: 'I18n',
-        route: 'extensions-i18n',
+        title: "I18n",
+        route: "extensions-i18n",
       },
     ],
   },
   {
-    title: 'Page Layouts',
-    icon: 'LayoutIcon',
+    title: "Page Layouts",
+    icon: "LayoutIcon",
     children: [
       {
-        title: 'Collapsed Menu',
-        route: 'page-layout-collapsed-menu',
+        title: "Collapsed Menu",
+        route: "page-layout-collapsed-menu",
       },
       {
-        title: 'Layout Boxed',
-        route: 'page-layout-boxed-layout',
+        title: "Layout Boxed",
+        route: "page-layout-boxed-layout",
       },
       {
-        title: 'Without Menu',
-        route: 'page-layout-without-menu',
+        title: "Without Menu",
+        route: "page-layout-without-menu",
       },
       {
-        title: 'Layout Empty',
-        route: 'page-layout-layout-empty',
+        title: "Layout Empty",
+        route: "page-layout-layout-empty",
       },
       {
-        title: 'Layout Blank',
-        route: 'page-layout-layout-blank',
+        title: "Layout Blank",
+        route: "page-layout-layout-blank",
       },
     ],
   },
-]
+];
